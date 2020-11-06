@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="HikariExanple:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HikariExanple_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HikariExanple/ejb/EJB" />
+      <element id="javaee-facet-classes" facet="HikariExanple/ejb/EJB" />
+    </root>
+  </artifact>
+</component>
